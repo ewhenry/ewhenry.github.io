@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@100;400;600&display=swap');
+
+$black: rgba(64, 63, 67, 1);
+$gray: rgba(64, 63, 67, 0.5);
+$white: rgba(248, 237, 235, 1);
+$red: rgba(250, 135, 27, 1);
+$orange: rgba(248, 187, 52, 1);
+$yellow: rgba(242, 213, 142, 1);
+$darkyellow: rgba(241, 187, 37, 1);
+$lightgreen: rgba(163, 201, 141, 1);
+$green: rgba(137, 177, 154, 1);
+
+@font-face {
+  font-family: Takeover;
+  src: url(assets/Takeover.ttf);
+}
+
+.red { color: $red;}
+.white {color: $white;}
+
+/* general styling */
+body {
+  background-color: $white;
+}
