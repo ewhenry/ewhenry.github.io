@@ -9,7 +9,9 @@ import Home from './screens/Home';
 import './App.scss';
 
 function App() {
-
+  //https://github.com/cnnmon/cnnmon.github.io/blob/master/src/App.js
+  //https://tiffanywang.me/#/
+  
   return (
     <Router>
       <div className="App">
