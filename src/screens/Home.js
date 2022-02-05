@@ -9,8 +9,10 @@ function Home() {
     return (
         <div className="home">
             <div className="title">
-                <h1></h1>
+                <h1>Henry Wandover</h1>
             </div>
         </div>
     );
 }
+
+export default Home;

@@ -1,6 +1,6 @@
 import Footer from '../components/Footer.js';
 
-function About() {
+function Work() {
 
     return (
         <div className='container'>
@@ -10,4 +10,4 @@ function About() {
     );
 }
 
-export default About;
+export default Work;

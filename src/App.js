@@ -5,7 +5,9 @@ import {
   Route,
   Switch
 } from "react-router-dom";
-import Home from './screens/Home';
+import Home from './screens/Home.js';
+import About from './screens/About.js';
+import Work from './screens/Work.js';
 import './App.scss';
 
 function App() {
@@ -17,9 +19,18 @@ function App() {
       <div className="App">
         <div className="navigation">
           <NavLink exact to="/" className="navLink" activeClassName="activeNavLink">HENRYWANDOVER</NavLink>
-
+          <div className="right">
+            <NavLink exact to="/about" className="navLink" activeClassName="activeNavLink">ABOUT</NavLink>
+            <NavLink exact to="/work" className="navLink" activeClassName="activeNavLink">WORK</NavLink>
+          </div>
         </div>
         <Switch>
+          <Route path="/about">
+            <About />
+          </Route>
+          <Route path="/work">
+            <Work />
+          </Route>
           <Route path="/">
             <Home />
           </Route>

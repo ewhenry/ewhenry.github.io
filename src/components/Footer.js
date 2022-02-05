@@ -1,4 +1,4 @@
-import {AiFillLinkedIn, AiFillGithub, AiOutlineTwitter} from 'react-icons/ai';
+import {AiFillLinkedin, AiFillGithub, AiOutlineTwitter} from 'react-icons/ai';
 
 function Footer() {
     return (
@@ -8,7 +8,7 @@ function Footer() {
             <br />
             <p> or find me here:
             <br />
-                <a href="https://www.linkedin.com/in/henrywandover/" target="_blank" rel="noreferrer"><AiFillLinkedIn className="icon" />linkedin</a> <a href="https://github.com/ewhenry" target="_blank" rel="noreferrer"><AiFillGithub className="icon" />github</a> <a href="https://twitter.com/henrywandover" target="_blank" rel="noreferrer"><AiOutlineTwitter className="icon" />twitter</a>
+                <a href="https://www.linkedin.com/in/henrywandover/" target="_blank" rel="noreferrer"><AiFillLinkedin className="icon" />linkedin</a> <a href="https://github.com/ewhenry" target="_blank" rel="noreferrer"><AiFillGithub className="icon" />github</a> <a href="https://twitter.com/henrywandover" target="_blank" rel="noreferrer"><AiOutlineTwitter className="icon" />twitter</a>
             </p>
         </div>
     );
