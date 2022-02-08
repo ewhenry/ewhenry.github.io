@@ -4,8 +4,9 @@ function About() {
 
     return (
         <div className='container'>
-            <p>hi</p>
+            <p>[Intro Text]</p>
             <br />
+            
             <Footer />
         </div>
     );
