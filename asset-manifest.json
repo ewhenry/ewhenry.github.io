@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.804ca77d.css",
-    "main.js": "/static/js/main.df4a3749.js",
+    "main.js": "/static/js/main.d06f9b26.js",
     "static/js/787.b7602d77.chunk.js": "/static/js/787.b7602d77.chunk.js",
     "static/media/Takeover.ttf": "/static/media/Takeover.54341814bfd0d7e85418.ttf",
     "index.html": "/index.html",
     "main.804ca77d.css.map": "/static/css/main.804ca77d.css.map",
-    "main.df4a3749.js.map": "/static/js/main.df4a3749.js.map",
+    "main.d06f9b26.js.map": "/static/js/main.d06f9b26.js.map",
     "787.b7602d77.chunk.js.map": "/static/js/787.b7602d77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.804ca77d.css",
-    "static/js/main.df4a3749.js"
+    "static/js/main.d06f9b26.js"
   ]
 }
