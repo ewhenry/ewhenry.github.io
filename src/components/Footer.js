@@ -3,7 +3,7 @@ import {AiFillLinkedin, AiFillGithub, AiOutlineTwitter} from 'react-icons/ai';
 function Footer() {
     return (
         <div className="container">
-            <h2>where to reach out..</h2>
+            <h2>where to reach out...</h2>
             <p>email me at <a href="mailto:hw9692@bard.edu">hw9692@bard.edu</a>.</p>
             <br />
             <p> or find me here:
