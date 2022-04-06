@@ -4,7 +4,7 @@ function About() {
 
     return (
         <div className='container'>
-            <p>[Intro Text]</p>
+            <p>[Intro Text2]</p>
             <br />
             
             <Footer />
